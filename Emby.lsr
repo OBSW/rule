@@ -13,12 +13,12 @@ DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,sfcj.org
 # 墨云阁
 DOMAIN,m.mobaiemby.site
-# 憨豆Emby
-DOMAIN-SUFFIX,handoumedia.top
 # YounoEmby
 DOMAIN-SUFFIX,younoyes.com
 # 1111
 DOMAIN,cf.xmsl.org
+# 憨豆Emby
+DOMAIN-SUFFIX,handoumedia.top
 # Doubon
 DOMAIN,onatoshi.114514.quest
 # 游骑兵Emby
