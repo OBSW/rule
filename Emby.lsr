@@ -1,3 +1,6 @@
+# 月饼Emby
+DOMAIN,uhebs.emby.my
+DOMAIN-SUFFIX,emby.my
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
@@ -6,9 +9,6 @@ DOMAIN,misty.cx
 # CC公益
 DOMAIN,cc.coemn.com
 DOMAIN,cc.embycc.link
-# 月饼Emby
-DOMAIN,uhebs.emby.my
-DOMAIN-SUFFIX,emby.my
 # 非越媒体库
 DOMAIN-SUFFIX,sfcj.org
 # 墨云阁
@@ -17,10 +17,10 @@ DOMAIN,m.mobaiemby.site
 DOMAIN-SUFFIX,handoumedia.top
 # Doubon
 DOMAIN,onatoshi.114514.quest
-# 游骑兵Emby
-DOMAIN,emby.heisi.org
 # Emby存档服
 DOMAIN,emby.zn.al
+# 游骑兵Emby
+DOMAIN,emby.heisi.org
 # Temby
 DOMAIN,temby856.285286.xyz
 # 守候网络Premiun
