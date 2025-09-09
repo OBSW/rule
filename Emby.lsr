@@ -1,5 +1,4 @@
 # 月饼Emby
-DOMAIN,uhebs.emby.my
 DOMAIN-SUFFIX,emby.my
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
@@ -16,12 +15,10 @@ DOMAIN,m.mobaiemby.site
 DOMAIN-SUFFIX,handoumedia.top
 # Doubon
 DOMAIN,onatoshi.114514.quest
-# Emby存档服
-DOMAIN,emby.zn.al
 # 游骑兵Emby
 DOMAIN,emby.heisi.org
 # 叶子Emby
-DOMAIN-SUFFIX,bai.yezi.my
+DOMAIN-SUFFIX,yezi.my
 # pilipili
 DOMAIN,emby.pilipiliultra.com
 # ZoxFree
