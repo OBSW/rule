@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,emby.my
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
-# Misty
+# UHD
 DOMAIN,misty.cx
 # CC公益
 DOMAIN,cc.coemn.com
@@ -11,8 +11,6 @@ DOMAIN,cc.embycc.link
 DOMAIN-SUFFIX,sfcj.org
 # 墨云阁
 DOMAIN,m.mobaiemby.site
-# 憨豆Emby
-DOMAIN-SUFFIX,handoumedia.top
 # Doubon
 DOMAIN,onatoshi.114514.quest
 # 游骑兵Emby
@@ -24,8 +22,8 @@ DOMAIN,emby.pilipiliultra.com
 # ZoxFree
 DOMAIN,zoxfree.3767483.xyz
 # Temby
-DOMAIN,temby856.285286.xyz
-# 守候网络Premiun
+DOMAIN,temby777.285286.xyz
+# 守候网络
 DOMAIN-SUFFIX,cn2gias.uk
 # SYN Streaming
 DOMAIN,clip.makima.online
